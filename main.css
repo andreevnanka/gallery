@@ -1,0 +1,68 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+main {
+	width: 70%;
+	padding: 50px;
+	margin: auto;
+	background-color: white;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+body {
+	background-color: lightgray;
+}
+
+.photo {
+	width: calc(50% - 40px);
+	height: calc((35vw - 40px)/16*14);
+	margin: 10px;
+	background-color: lightgray;
+}
+
+.page1 {
+	background-image: url(img/img1.jpg);
+}
+.page2 {
+	background-image: url(img/img2.jpg);
+}
+.page3 {
+	background-image: url(img/img3.jpg);
+}
+.page4 {
+	background-image: url(img/img4.jpg);
+}
+.page5 {
+	background-image: url(img/img5.jpg);
+}
+.page6 {
+	background-image: url(img/img6.jpg);
+}
+.page7 {
+	background-image: url(img/img7.jpg);
+}
+.page8 {
+	background-image: url(img/img8.jpg);
+}
+.page9 {
+	background-image: url(img/img9.jpg);
+}
+.page10 {
+	background-image: url(img/img10.jpg);
+}
+.page11 {
+	background-image: url(img/img11.jpg);
+}
+.page12 {
+	background-image: url(img/img12.jpg);
+}
+
+h1 {
+	width: 100%;
+	text-align: center;
+}
